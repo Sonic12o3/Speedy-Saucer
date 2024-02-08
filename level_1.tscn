@@ -17,3 +17,4 @@ stretch_mode = 1
 [node name="Player" parent="." instance=ExtResource("2_diycd")]
 z_index = 1
 position = Vector2(571, 311)
+gravity_scale = 0.0
